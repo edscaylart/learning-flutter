@@ -1,4 +1,4 @@
-# Functions - Optional and anonymous parameters
+### Functions - Optional and anonymous parameters
 
 ```dart
 void main() {

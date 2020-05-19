@@ -1,11 +1,11 @@
-# MacOS Flutter Setup
+### MacOS Flutter Setup
 
-[ ] Install Flutter
-[ ] Download Android Studio
-[ ] Install Dart & Flutter plugins
-[ ] Install Dart & Flutter extensions on VSCode
+- [ ] Install Flutter
+- [ ] Download Android Studio
+- [ ] Install Dart & Flutter plugins
+- [ ] Install Dart & Flutter extensions on VSCode
 
-Run
+Run on terminal
 ```bash
 $ flutter doctor
 ```
