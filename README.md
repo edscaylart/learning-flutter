@@ -5,6 +5,7 @@
 - [01 - People Counter](https://github.com/edscaylart/learning-flutter/tree/master/01_people_counter)
 - [02 - BMI Calculator](https://github.com/edscaylart/learning-flutter/tree/master/02_bmi_calculator)
 - [03 - Currency Converter](https://github.com/edscaylart/learning-flutter/tree/master/03_currency_converter)
+- [04 - ToDo List](https://github.com/edscaylart/learning-flutter/tree/master/04_todo_list)
 
 ## 📝 Licence
 
