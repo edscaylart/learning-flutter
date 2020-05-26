@@ -6,6 +6,7 @@
 - [02 - BMI Calculator](https://github.com/edscaylart/learning-flutter/tree/master/02_bmi_calculator)
 - [03 - Currency Converter](https://github.com/edscaylart/learning-flutter/tree/master/03_currency_converter)
 - [04 - ToDo List](https://github.com/edscaylart/learning-flutter/tree/master/04_todo_list)
+- [05 - Gif Searcher](https://github.com/edscaylart/learning-flutter/tree/master/05_gif_searcher)
 
 ## 📝 Licence
 
