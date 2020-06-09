@@ -8,6 +8,7 @@
 - [04 - ToDo List](https://github.com/edscaylart/learning-flutter/tree/master/04_todo_list)
 - [05 - Gif Searcher](https://github.com/edscaylart/learning-flutter/tree/master/05_gif_searcher)
 - [06 - Contact Book](https://github.com/edscaylart/learning-flutter/tree/master/06_contact_book)
+- [07 - Chat with Firebase](https://github.com/edscaylart/learning-flutter/tree/master/07_chat_firebase)
 
 ## 📝 Licence
 
